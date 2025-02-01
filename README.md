@@ -2,6 +2,13 @@
 
 A React-based interactive quiz application that allows users to answer multiple-choice questions and view their results at the end.
 
+NOTE : The project is deployed so the live working interface can be seen by visiting it. 
+
+## Demo
+
+You can check out the live demo of the app here:  
+[Live Demo](https://testline-assignment-eight.vercel.app/)
+
 ## Features
 
 - Fetches quiz data from a remote API.
@@ -11,11 +18,6 @@ A React-based interactive quiz application that allows users to answer multiple-
 - User-friendly design with TailwindCSS styling.
 - Option to navigate through questions (Previous, Next buttons).
 - Display percentage of correct answers at the end.
-
-## Demo
-
-You can check out the live demo of the app here:  
-[Live Demo](https://testline-assignment-eight.vercel.app/)
 
 ## Technologies Used
 
